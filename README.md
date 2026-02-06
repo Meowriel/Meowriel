@@ -17,11 +17,14 @@
 <!-- Skills badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-3D-orange?style=flat-square&logo=blender" alt="Blender" />
-  <img src="https://img.shields.io/badge/Sculpting-3D-7A4FE8?style=flat-square&logo=zbrush" alt="Sculpting" />
+  <img src="https://img.shields.io/badge/ZBrush-Sculpting-000000?style=flat-square&logo=zbrush" alt="ZBrush" />
+  <img src="https://img.shields.io/badge/Nomad%20Sculpt-Sculpting-444444?style=flat-square&logo=nomad" alt="Nomad Sculpt" />
+  
   <img src="https://img.shields.io/badge/HTML-HTML5-red?style=flat-square&logo=html5" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-CSS3-blue?style=flat-square&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=flat-square&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-Python-ffd43b?style=flat-square&logo=python" alt="Python" />
+  
   <img src="https://img.shields.io/badge/Figma-UI-pink?style=flat-square&logo=figma" alt="Figma" />
   <img src="https://img.shields.io/badge/Photoshop-Design-31A8FF?style=flat-square&logo=adobephotoshop" alt="Photoshop" />
 </p>
