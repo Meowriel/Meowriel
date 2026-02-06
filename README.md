@@ -86,8 +86,6 @@ and also here is my profile https://pin.it/7qsHOeI1Z
 
 ---
 
-## Contact & Socials
-
 <p align="center">
   <a href="https://t.me/Meowriel_3D">
     <img src="https://img.shields.io/badge/Telegram-@Meowriel_3D-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" />
@@ -103,6 +101,10 @@ and also here is my profile https://pin.it/7qsHOeI1Z
   &nbsp;
   <a href="https://github.com/laladatte">
     <img src="https://img.shields.io/badge/GitHub-laladatte-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/WeChat-laladatte-07C160?style=for-the-badge&logo=wechat" alt="WeChat" />
   </a>
 </p>
 
