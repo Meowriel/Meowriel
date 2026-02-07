@@ -112,13 +112,14 @@ Pipeline & Optimization: LODs, texture atlasing, FBX/GLTF export, basic automati
   </a>
   &nbsp;
   <a href="https://www.zcool.com.cn/laladatte">
-    <img src="https://img.shields.io/badge/ZCOOL-laladatte-0096FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjUwIiBmaWxsPSIjMDA5NkZGIi8+PHRleHQgeD0iNTAiIHk9IjU1IiBmb250LXNpemU9IjUwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5aPC90ZXh0Pjwvc3ZnPg==" alt="ZCOOL" />
+    <img src="https://img.shields.io/badge/ZCOOL-laladatte-0096FF?style=for-the-badge" alt="ZCOOL" />
   </a>
   &nbsp;
   <a href="https://www.douyin.com/user/laladatte">
-    <img src="https://img.shields.io/badge/Douyin-laladatte-FF0050?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjUwIiBmaWxsPSIjRkYwMDUwIi8+PHRleHQgeD0iNTAiIHk9IjU1IiBmb250LXNpemU9IjUwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5EPC90ZXh0Pjwvc3ZnPg==" alt="Douyin" />
+    <img src="https://img.shields.io/badge/Douyin-laladatte-FF0050?style=for-the-badge" alt="Douyin" />
   </a>
 </p>
+
 
 
 ---
