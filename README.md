@@ -63,7 +63,7 @@ You  can explore ALL my works on this platforms
 - **Lina the Wanderer** — character sculpt and polypaint, cloth sim and lookdev.
 - **Interactive Scene** — small Three.js demo with custom shaders.
 
-*(Replace `assets/preview*.png` and thumbnails with your real images / links.)*
+
 
 ---
 
