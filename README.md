@@ -142,13 +142,7 @@ Pipeline & Optimization: LODs, texture atlasing, FBX/GLTF export, basic automati
 </p>
 
 
----
 
-## GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laladatte&show_icons=true&theme=radical" alt="GitHub stats" width="420"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laladatte&layout=compact&theme=radical" alt="Top Languages" width="260"/>
 </p>
 
