@@ -3,7 +3,7 @@
 **3D Artist — Modeling · Sculpting · Texturing · Lighting**
 
 
-|---|---:|
+
 ## About
 | **Hello! I’m Nadezhda** (my nickname is *laladatte*)  <br><br> I’m a passionate 3D artist and designer. I love creating beautiful worlds and imaginative characters using **Blender** and 3D sculpting tools. I feel pride and joy when what I imagined in my head appears on the screen.  <br><br> I’m happy to share my works and accept custom commissions — let’s create beauty together! ❤️  <br><br> I also work with **HTML, CSS, JavaScript, and Python**, and I have extensive experience in **Figma** and **Photoshop**.  <br><br> [About](#about) • [Portfolio](#portfolio) • [Skills](#skills) • [Process](#process) • [Contact](#contact) | ![Side illustration](https://i.pinimg.com/originals/73/6c/ce/736cce8d1fbe6c4e8bde07536b681316.gif) |
  
