@@ -15,7 +15,7 @@ Greetings! You can find my resume on this page.
 Be happy to work with you. ✨  
 
 <p align="center">
-  <img src="resume.png" alt="My resume card" width="1000">
+  <img src="resume_grid.png" alt="My resume card" width="1000">
 
 </p>
 
